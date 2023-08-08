@@ -1,7 +1,7 @@
 <h1 align="center">WebixarITSolutions</h1>
 <h3 align="center">A small startup company who gives services like Website development, Digital Marketing, Android and IOS development.</h3>
 
-- 🔭 We provide IT Solutions for various domains such as Website, App Development, Game Development, **Graphic Designing, Social Media Marketing,etc**
+- 🔭 We provide IT Solutions for various domains such as **Website, App Development, Game Development, Graphic Designing, Social Media Marketing,etc**
 
 - 👯 We're looking to collaborate on **various projects related to Web Development and App Development.**
 
