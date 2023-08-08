@@ -5,7 +5,7 @@
 
 - 👯 We're looking to collaborate on **various projects related to Web Development and App Development.**
 
-- 🤝 We're looking for help with **Restuarant Website**
+- 🤝 We're looking for help with our **Open Source Projects**
 
 - 📫 How to reach us **http://www.webixar.in**
 
