@@ -5,8 +5,8 @@
 
 - 👯 We're looking to collaborate on **various projects related to Web Development and App Development.**
 
-- 🤝 We're looking for help with our **Open Source Projects** by collaborating in our project we can give you a chance to get an internship at **Webixar**
-  so apply your coding knowledge.
+- 🤝 We're looking for help with our **Open Source Projects**
+  
 - 📫 How to reach us **http://www.webixar.in**
 
 <h3 align="left">Connect with me:</h3>
